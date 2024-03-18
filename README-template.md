@@ -5,7 +5,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/HasnainAli313/Frontend-Mentor-Challenge-1.git)
 - Live Site URL: [Add live site URL here](https://hasnainali313.github.io/Frontend-Mentor-Challenge-1/)
 
 ### Built with
